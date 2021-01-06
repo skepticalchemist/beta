@@ -1,0 +1,13 @@
+  101  htop
+  177  conda deactivate
+  178  conda env list
+  179  ls
+  180  cd my_repos_on_Git/
+  181  clear
+  593  vi .gitignore
+  594  vim .gitignore
+  595  vi info.txt
+  596  clear
+  597  ls -l
+  598  ls -la
+  599  history > hist.txt
